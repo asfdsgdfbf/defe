@@ -11,3 +11,6 @@
         </main>
     </body>
 </html>
+body {
+    font-family: sans-serif;
+}
